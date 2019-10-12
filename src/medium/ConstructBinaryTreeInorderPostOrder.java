@@ -5,7 +5,7 @@ import easy.TreeNode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class ConstructBinaryTreePreOrderPostOrder {
+public class ConstructBinaryTreeInorderPostOrder {
     Map<Integer, Integer> map;
     int index;
 
