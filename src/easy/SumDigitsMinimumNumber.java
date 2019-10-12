@@ -1,4 +1,4 @@
-package array;
+package easy;
 
 public class SumDigitsMinimumNumber {
     public int sumOfDigits(int[] A) {

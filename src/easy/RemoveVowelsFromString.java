@@ -1,4 +1,4 @@
-package string;
+package easy;
 
 public class RemoveVowelsFromString {
     public String removeVowels(String S) {

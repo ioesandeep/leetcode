@@ -1,4 +1,4 @@
-package tree;
+package easy;
 
 public class RangeSumOfBST {
     private int sum;

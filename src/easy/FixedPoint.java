@@ -1,4 +1,4 @@
-package binarysearch;
+package easy;
 
 public class FixedPoint {
     public int fixedPoint(int[] A) {

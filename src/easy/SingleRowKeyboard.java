@@ -1,4 +1,4 @@
-package string;
+package easy;
 
 public class SingleRowKeyboard {
     public int calculateTime(String keyboard, String word) {

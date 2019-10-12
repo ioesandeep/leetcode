@@ -1,4 +1,4 @@
-package math;
+package easy;
 
 public class ArmstrongNumber {
     public boolean isArmstrong(int N) {

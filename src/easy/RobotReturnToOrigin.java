@@ -1,4 +1,4 @@
-package string;
+package easy;
 
 public class RobotReturnToOrigin {
     public boolean judgeCircle(String moves) {
