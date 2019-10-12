@@ -3,7 +3,7 @@ package medium;
 import java.util.HashMap;
 import java.util.Map;
 
-public class SubarrySumEqualsK {
+public class SubArraySumEqualsK {
     public int subarraySum(int[] nums, int k) {
         int left = 0, right = 0, res = 0;
         Map<Integer, Integer> map = new HashMap<>();
