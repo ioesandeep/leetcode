@@ -6,5 +6,5 @@ The problems are distributed into three packages based on their difficulty level
 Links
 ======
 
-[1. Two Sum - https://leetcode.com/problems/two-sum][https://github.com/wdydev/leetcode/blob/master/src/easy/TwoSum.java]
+[1. Two Sum - https://leetcode.com/problems/two-sum](https://github.com/wdydev/leetcode/blob/master/src/easy/TwoSum.java)
 
