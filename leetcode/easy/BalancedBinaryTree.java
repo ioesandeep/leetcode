@@ -1,6 +1,6 @@
 package leetcode.easy;
 
-public class BalancesBinaryTree {
+public class BalancedBinaryTree {
     public boolean isBalanced(TreeNode root) {
         if (root == null) {
             return true;
