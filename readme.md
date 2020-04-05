@@ -108,7 +108,7 @@ EASY
 |[658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/KClosestElements.java)|
 |[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/TrimBST.java)|
 |[671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/SecondMinimumBinaryTree.java)|
-|[]()|[java]()|
+|[675. Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/hard/CutOffTreesGolfEvent.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
