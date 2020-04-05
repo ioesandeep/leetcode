@@ -115,7 +115,7 @@ EASY
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/TopKFrequentWords.java)|
 |[694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/NumberOfDistinctIslands.java)|
 |[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/SearchInBST.java)|
-|[]()|[java]()|
+|[701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/InsertIntoBST.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
