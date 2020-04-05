@@ -43,7 +43,7 @@ EASY
 |[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/RemoveLinkedListElements.java)|
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ReverseLinkedList.java)|
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ContainsDuplicates.java)|
-|[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ContainsDuplicatesII.java)|
+|[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ContainsDuplicateII.java)|
 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/InvertBinaryTree.java)|
 |[231. Power of Two](https://leetcode.com/problems/power-of-two/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/PowerOfTwo.java)|
 |[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/QueueUsingStacks.java)|
@@ -51,6 +51,205 @@ EASY
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/LCAOfBST.java)|
 |[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/DeleteNodeInLinkedList.java)|
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ValidAnagram.java)|
+|[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[java]()|
+|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[java]()|
+|[258. Add Digits](https://leetcode.com/problems/add-digits/)|[java]()|
+|[268. Missing Number](https://leetcode.com/problems/missing-number/)|[java]()|
+|[270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[java]()|
+|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[java]()|
+|[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[java]()|
+|[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[java]()|
+|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[java]()|
+|[346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[java]()|
+|[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[java]()|
+|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[java]()|
+|[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
+|[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
