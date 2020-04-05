@@ -113,7 +113,7 @@ EASY
 |[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ValidPalindromeII.java)|
 |[690. Employee Importance](https://leetcode.com/problems/employee-importance)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/EmployeeImportance.java)|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/TopKFrequentWords.java)|
-|[]()|[java]()|
+|[694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/NumberOfDistinctIslands.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
