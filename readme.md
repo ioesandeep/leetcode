@@ -154,7 +154,7 @@ EASY
 |[1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/BSTToGreaterTree.java)|
 |[1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/RemoveDuplicatesFromString.java)|
 |[1064. Fixed Point](https://leetcode.com/problems/fixed-point)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/FixedPoint.java)|
-|[]()|[java]()|
+|[1085. Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/SumDigitsMinimumNumber.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
