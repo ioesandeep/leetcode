@@ -151,7 +151,7 @@ EASY
 |[1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/MaxDiffNodeAndAncestor.java)|
 |[1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/hard/RecoverTreePreOrder.java)|
 |[1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ValidBoomerang.java)|
-|[]()|[java]()|
+|[1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/BSTToGreaterTree.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
