@@ -98,7 +98,7 @@ EASY
 |[588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/hard/FileSystem.java)|
 |[589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/NAryTreePreOrderTraversal.java)|
 |[590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/NAryTreePostOrderTraversal.java)|
-|[]()|[java]()|
+|[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/CanReplaceFlowers.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
