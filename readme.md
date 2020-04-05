@@ -116,7 +116,7 @@ EASY
 |[694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/NumberOfDistinctIslands.java)|
 |[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/SearchInBST.java)|
 |[701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/InsertIntoBST.java)|
-|[]()|[java]()|
+|[705. Design HashSet](https://leetcode.com/problems/design-hashset)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/DesignHashSet.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
