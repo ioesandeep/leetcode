@@ -69,8 +69,8 @@ EASY
 |[429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/NAryTreeLevelOrderTraversal.java)|
 |[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/NumberOfSegmentsInAString.java)|
 |[437. Path Sum III](https://leetcode.com/problems/path-sum-iii)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/PathSumIII.java)|
-|[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/FindAllAnagrams.java)|
-|[]()|[java]()|
+|[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/FindAllAnagrams.java)|
+|[441. Arranging Coins](https://leetcode.com/problems/arranging-coins)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ArrangingCoins.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
