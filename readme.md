@@ -94,7 +94,7 @@ EASY
 |[559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MaximumDepthOfNAryTree.java)|
 |[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/SubArraySumEqualsK.java)|
 |[567. Permutation in String](https://leetcode.com/problems/permutation-in-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/PermutationInString.java)|
-|[]()|[java]()|
+|[572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/SubtreeOfTree.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
