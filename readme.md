@@ -88,7 +88,7 @@ EASY
 |[520. Detect Capital](https://leetcode.com/problems/detect-capital)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/DetectCapital.java)|
 |[530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MinimumAbsoluteDifferenceBST.java)|
 |[536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/ConstructBinaryTreeFromString.java)|
-|[]()|[java]()|
+|[538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/BSTToGreaterTree.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
