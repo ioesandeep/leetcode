@@ -143,7 +143,7 @@ EASY
 |[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/KClosestPoints.java)|
 |[980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/hard/UniquePathsIII.java)|
 |[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/IntervalListIntersections.java)|
-|[]()|[java]()|
+|[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/VerticalOrderTraversalBinaryTree.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
