@@ -71,7 +71,7 @@ EASY
 |[437. Path Sum III](https://leetcode.com/problems/path-sum-iii)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/PathSumIII.java)|
 |[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/FindAllAnagrams.java)|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ArrangingCoins.java)|
-|[]()|[java]()|
+|[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/DuplicatesInArray.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
