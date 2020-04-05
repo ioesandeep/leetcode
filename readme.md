@@ -90,7 +90,7 @@ EASY
 |[536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/ConstructBinaryTreeFromString.java)|
 |[538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/BSTToGreaterTree.java)|
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/DiameterOfBinaryTree.java)|
-|[]()|[java]()|
+|[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/StudentAttendanceRecordI.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
