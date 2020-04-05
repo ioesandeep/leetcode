@@ -106,7 +106,7 @@ EASY
 |[653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/SetMismatchTwoSumIVBST.java)|
 |[657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/RobotReturnToOrigin.java)|
 |[658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/KClosestElements.java)|
-|[]()|[java]()|
+|[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/TrimBST.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
