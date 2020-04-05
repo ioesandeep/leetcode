@@ -112,7 +112,7 @@ EASY
 |[676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/ImplementMagicDictionary.java)|
 |[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ValidPalindromeII.java)|
 |[690. Employee Importance](https://leetcode.com/problems/employee-importance)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/EmployeeImportance.java)|
-|[]()|[java]()|
+|[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/TopKFrequentWords.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
