@@ -149,7 +149,7 @@ EASY
 |[1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/NumberOfEnclaves.java)|
 |[1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/SumRootToLeafBinaryNumbers.java)|
 |[1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/MaxDiffNodeAndAncestor.java)|
-|[]()|[java]()|
+|[1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/hard/RecoverTreePreOrder.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
