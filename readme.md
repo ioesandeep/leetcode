@@ -152,7 +152,7 @@ EASY
 |[1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/hard/RecoverTreePreOrder.java)|
 |[1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ValidBoomerang.java)|
 |[1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/BSTToGreaterTree.java)|
-|[]()|[java]()|
+|[1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/RemoveDuplicatesFromString.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
