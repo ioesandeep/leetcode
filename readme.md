@@ -133,7 +133,7 @@ EASY
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MiddleOfLinkedList.java)|
 |[896. Monotonic Array](https://leetcode.com/problems/monotonic-array)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MonotonicArray.java)|
 |[897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/IncreasingOrderSearchTree.java)|
-|[]()|[java]()|
+|[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/FruitInBaskets.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
