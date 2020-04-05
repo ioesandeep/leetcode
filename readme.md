@@ -129,7 +129,7 @@ EASY
 |[814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/BinaryTreePruning.java)|
 |[819. Most Common Word](https://leetcode.com/problems/most-common-word)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MostCommonWord.java)|
 |[863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/NodesDistanceKBinaryTree.java)|
-|[]()|[java]()|
+|[872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/LeafSimilarTrees.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|

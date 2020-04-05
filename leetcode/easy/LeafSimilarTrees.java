@@ -3,7 +3,7 @@ package leetcode.easy;
 import java.util.LinkedList;
 import java.util.List;
 
-public class LeafSimilarTree {
+public class LeafSimilarTrees {
     List<Integer> result;
 
     public boolean leafSimilar(TreeNode root1, TreeNode root2) {
