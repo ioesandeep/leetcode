@@ -153,7 +153,7 @@ EASY
 |[1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ValidBoomerang.java)|
 |[1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/BSTToGreaterTree.java)|
 |[1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/RemoveDuplicatesFromString.java)|
-|[]()|[java]()|
+|[1064. Fixed Point](https://leetcode.com/problems/fixed-point)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/FixedPoint.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
