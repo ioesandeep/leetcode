@@ -121,7 +121,7 @@ EASY
 |[719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/hard/KthSmallestPair.java)|
 |[733. Flood Fill](https://leetcode.com/problems/flood-fill)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/FloodFill.java)|
 |[735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/AsteriodCollision.java)|
-|[]()|[java]()|
+|[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MinCostClimbingStairs.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
