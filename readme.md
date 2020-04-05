@@ -124,7 +124,7 @@ EASY
 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MinCostClimbingStairs.java)|
 |[759. Employee Free Time](https://leetcode.com/problems/employee-free-time)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/hard/EmployeeFreeTime.java)|
 |[776. Split BST](https://leetcode.com/problems/split-bst)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/SplitBST.java)|
-|[]()|[java]()|
+|[783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MinimumDistanceBetweenBSTNodes.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
