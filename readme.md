@@ -134,7 +134,7 @@ EASY
 |[896. Monotonic Array](https://leetcode.com/problems/monotonic-array)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MonotonicArray.java)|
 |[897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/IncreasingOrderSearchTree.java)|
 |[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/FruitInBaskets.java)|
-|[]()|[java]()|
+|[929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/UniqueEmailAddresses.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
