@@ -78,7 +78,7 @@ EASY
 |[450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/DeleteNodeBST.java)|
 |[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/SortCharactersByFrequency.java)|
 |[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/BurstBallons.java)|
-|[]()|[java]()|
+|[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/RepeatedSubstringPattern.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
