@@ -85,7 +85,7 @@ EASY
 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/FibonacciNumber.java)|
 |[510. Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/InorderSuccessorBSTII.java)|
 |[513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/BottomLeftTreeValue.java)|
-|[]()|[java]()|
+|[520. Detect Capital](https://leetcode.com/problems/detect-capital)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/DetectCapital.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
