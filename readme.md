@@ -67,8 +67,8 @@ EASY
 |[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/FizzBuzz.java)|
 |[426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/BSTToSortedDLL.java)|
 |[429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/NAryTreeLevelOrderTraversal.java)|
-|[]()|[java]()|
-|[]()|[java]()|
+|[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/NumberOfSegmentsInAString.java)|
+|[437. Path Sum III](https://leetcode.com/problems/path-sum-iii)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/PathSumIII.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
