@@ -144,7 +144,7 @@ EASY
 |[980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/hard/UniquePathsIII.java)|
 |[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/IntervalListIntersections.java)|
 |[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/VerticalOrderTraversalBinaryTree.java)|
-|[]()|[java]()|
+|[988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/SmallestStringFromLeaf.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
