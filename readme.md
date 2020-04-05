@@ -101,7 +101,7 @@ EASY
 |[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/CanReplaceFlowers.java)|
 |[606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/StringFromBinaryTree.java)|
 |[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MergeTwoBinaryTrees.java)|
-|[]()|[java]()|
+|[637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/AverageOfLevelsInBinaryTree.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
