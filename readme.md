@@ -156,7 +156,7 @@ EASY
 |[1064. Fixed Point](https://leetcode.com/problems/fixed-point)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/FixedPoint.java)|
 |[1085. Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/SumDigitsMinimumNumber.java)|
 |[1086. High Five](https://leetcode.com/problems/high-five)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/HighFive.java)|
-|[]()|[java]()|
+|[1099. Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/TwoSumLessThanK.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
