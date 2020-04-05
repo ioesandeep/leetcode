@@ -136,7 +136,7 @@ EASY
 |[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/FruitInBaskets.java)|
 |[929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/UniqueEmailAddresses.java)|
 |[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ReOrderDataInLogFiles.java)|
-|[]()|[java]()|
+|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/RangeSumOfBST.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
