@@ -158,8 +158,8 @@ EASY
 |[1086. High Five](https://leetcode.com/problems/high-five)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/HighFive.java)|
 |[1099. Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/TwoSumLessThanK.java)|
 |[1100. Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/KLengthSubstringNoRepeatedCharacters.java)|
-|[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|[java]( https://github.com/wdydev/leetcode/blob/master/leetcode/easy/DefangIPAddress.java)|
-|[]()|[java]()|
+|[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/DefangIPAddress.java)|
+|[1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/RemoveVowelsFromString.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
