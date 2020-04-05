@@ -140,7 +140,7 @@ EASY
 |[957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/PrisonCells.java)|
 |[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/BinaryTreeCompletenessCheck.java)|
 |[965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/UnivaluedBinaryTree.java)|
-|[]()|[java]()|
+|[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/KClosestPoints.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
