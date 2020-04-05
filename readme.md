@@ -111,7 +111,7 @@ EASY
 |[675. Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/hard/CutOffTreesGolfEvent.java)|
 |[676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/ImplementMagicDictionary.java)|
 |[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ValidPalindromeII.java)|
-|[]()|[java]()|
+|[690. Employee Importance](https://leetcode.com/problems/employee-importance)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/EmployeeImportance.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
