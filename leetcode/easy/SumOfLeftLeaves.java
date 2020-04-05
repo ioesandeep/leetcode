@@ -1,6 +1,6 @@
 package leetcode.easy;
 
-public class SomOfLeftLeaves {
+public class SumOfLeftLeaves {
     public int sumOfLeftLeaves(TreeNode root) {
         return sumOfLeftLeaves(root, 0);
     }

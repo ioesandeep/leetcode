@@ -51,20 +51,20 @@ EASY
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/LCAOfBST.java)|
 |[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/DeleteNodeInLinkedList.java)|
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ValidAnagram.java)|
-|[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[java]()|
-|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[java]()|
-|[258. Add Digits](https://leetcode.com/problems/add-digits/)|[java]()|
-|[268. Missing Number](https://leetcode.com/problems/missing-number/)|[java]()|
-|[270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[java]()|
-|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[java]()|
-|[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[java]()|
-|[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[java]()|
-|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[java]()|
-|[346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[java]()|
-|[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[java]()|
-|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[java]()|
-|[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[java]()|
-|[]()|[java]()|
+|[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MeetingRooms.java)|
+|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/BinaryTreePaths.java)|
+|[258. Add Digits](https://leetcode.com/problems/add-digits/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/AddDigits.java)|
+|[268. Missing Number](https://leetcode.com/problems/missing-number/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MissingNumber.java)|
+|[270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ClosestBSTValue.java)|
+|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MoveZeroes.java)|
+|[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/RangeSumQueryImmutable.java)|
+|[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ReverseString.java)|
+|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ReverseVowelsString.java)|
+|[346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MovingAverageDataStream.java)|
+|[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/GuessNumberHigherOrLower.java)|
+|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/FirstUniqueCharInString.java)|
+|[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/SumOfLeftLeaves.java)|
+|[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/FizzBuzz.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
