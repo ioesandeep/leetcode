@@ -126,7 +126,7 @@ EASY
 |[776. Split BST](https://leetcode.com/problems/split-bst)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/SplitBST.java)|
 |[783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MinimumDistanceBetweenBSTNodes.java)|
 |[811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/SubDomainVisitCount.java)|
-|[]()|[java]()|
+|[814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/BinaryTreePruning.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
