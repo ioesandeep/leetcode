@@ -109,7 +109,7 @@ EASY
 |[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/TrimBST.java)|
 |[671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/SecondMinimumBinaryTree.java)|
 |[675. Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/hard/CutOffTreesGolfEvent.java)|
-|[]()|[java]()|
+|[676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/ImplementMagicDictionary.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
