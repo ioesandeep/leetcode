@@ -79,7 +79,7 @@ EASY
 |[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/SortCharactersByFrequency.java)|
 |[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/BurstBallons.java)|
 |[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/RepeatedSubstringPattern.java)|
-|[]()|[java]()|
+|[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/LicenseKeyFormatting.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
