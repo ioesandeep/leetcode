@@ -138,7 +138,7 @@ EASY
 |[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ReOrderDataInLogFiles.java)|
 |[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/RangeSumOfBST.java)|
 |[957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/PrisonCells.java)|
-|[]()|[java]()|
+|[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/BinaryTreeCompletenessCheck.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
