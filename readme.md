@@ -146,7 +146,7 @@ EASY
 |[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/VerticalOrderTraversalBinaryTree.java)|
 |[988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/SmallestStringFromLeaf.java)|
 |[1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/SmallestIntegerDivisibleByK.java)|
-|[]()|[java]()|
+|[1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/NumberOfEnclaves.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
