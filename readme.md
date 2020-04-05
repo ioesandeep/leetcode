@@ -91,7 +91,7 @@ EASY
 |[538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/BSTToGreaterTree.java)|
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/DiameterOfBinaryTree.java)|
 |[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/StudentAttendanceRecordI.java)|
-|[]()|[java]()|
+|[559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/MaximumDepthOfNAryTree.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
