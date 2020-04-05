@@ -160,8 +160,8 @@ EASY
 |[1100. Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/KLengthSubstringNoRepeatedCharacters.java)|
 |[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/DefangIPAddress.java)|
 |[1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/RemoveVowelsFromString.java)|
-|[1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/LCADeepestLeaves.java)|
-|[]()|[java]()|
+|[1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/medium/LCADeepestLeaves.java)|
+|[1134. Armstrong Number](https://leetcode.com/problems/armstrong-number/)|[java](https://github.com/wdydev/leetcode/blob/master/leetcode/easy/ArmstrongNumber.java)|
 |[]()|[java]()|
 |[]()|[java]()|
 |[]()|[java]()|
